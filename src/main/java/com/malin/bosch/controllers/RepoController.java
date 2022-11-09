@@ -1,5 +1,7 @@
-package com.malin.bosch;
+package com.malin.bosch.controllers;
 
+import com.malin.bosch.models.RepoInformation;
+import com.malin.bosch.services.RepoService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

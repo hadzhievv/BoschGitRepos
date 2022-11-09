@@ -1,4 +1,4 @@
-package com.malin.bosch;
+package com.malin.bosch.configurations;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

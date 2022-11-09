@@ -1,5 +1,6 @@
-package com.malin.bosch;
+package com.malin.bosch.services;
 
+import com.malin.bosch.models.RepoInformation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpMethod;

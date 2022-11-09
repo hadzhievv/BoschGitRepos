@@ -1,4 +1,4 @@
-package com.malin.bosch;
+package com.malin.bosch.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
